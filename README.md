@@ -38,3 +38,25 @@ Interactive dashboard to analyze sales performance and profitability.
 ### 🔹 Monthly Sales Trend
 
 ![Trend](trend.png)
+
+---
+
+💡 This dashboard provides insights into sales performance, profit analysis, and monthly trends to support business decision-making.
+
+### 🔍 Key Insights
+
+- Total Sales: 8M+
+- Total Profit: 3M+
+- Top performing country: USA
+- Sales trend shows seasonal variation
+
+
+---
+
+## 👩‍💻 Author
+
+Hi, I'm **Ramalakshmi M** 👋  
+An aspiring Data Analyst passionate about data visualization and machine learning.
+
+📌 Skills: Python | SQL | Power BI | Pandas | Machine Learning  
+
