@@ -27,3 +27,14 @@ Interactive dashboard to analyze sales performance and profitability.
 - Scikit-learn
 - Power BI
 
+## 📊 Power BI Dashboard
+
+### 🔹 Sales & Profit Overview
+
+![Dashboard](dashboard.png)
+
+---
+
+### 🔹 Monthly Sales Trend
+
+![Trend](trend.png)
